@@ -1,10 +1,4 @@
 # The Agentic Organization: Graduate-Level Assessment
-
-** Type: **  Multiple Choice Quiz  
-** Based On: **  *McKinsey – “The Agentic Organization”*  
-** Level: **  Graduate / Advanced  
-** Duration: **  30 Minutes  
-
 ---
 
 ## Instructions
